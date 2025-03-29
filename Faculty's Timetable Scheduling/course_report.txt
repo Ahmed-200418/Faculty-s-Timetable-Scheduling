@@ -1,0 +1,199 @@
+Report for Course: Eng-1
+- Doctor: El-Kholy, Day/Time: Wed 2-4, Hall: hall-10 b
+- Doctor: Wafi, Day/Time: Wed 10-12, Hall: hall-10 b
+
+========================================
+
+Report for Course: Math-1
+- Doctor: Salwa, Day/Time: Mon 8-10, Hall: hall-2
+- Doctor: Manal, Day/Time: Mon 12-2, Hall: hall-17 d
+
+========================================
+
+Report for Course: Stat-1
+- Doctor: Mona, Day/Time: Sun 10-12, Hall: hall-2
+- Doctor: Helal, Day/Time: Sun 10-12, Hall: hall-1
+
+========================================
+
+Report for Course: Physics
+- Doctor: Abbas, Day/Time: Thu 2-4, Hall: hall-17 b
+- Doctor: Afefe, Day/Time: Thu 12-2, Hall: hall-10 b
+
+========================================
+
+Report for Course: Intro-cs
+- Doctor: Soha, Day/Time: Wed 10-12, Hall: hall-17 b
+- Doctor: Adel, Day/Time: Wed 8-10, Hall: hall-6 b
+
+========================================
+
+Report for Course: IS
+- Doctor: Abbas, Day/Time: Mon 2-4, Hall: hall-17 b
+- Doctor: Abbas, Day/Time: Tue 8-10, Hall: hall-10 b
+
+========================================
+
+Report for Course: Info-Sec
+- Doctor: Engy, Day/Time: Wed 12-2, Hall: hall-17 d
+- Doctor: Ayman, Day/Time: Wed 2-4, Hall: hall-1
+
+========================================
+
+Report for Course: Cybersec
+- Doctor: Wafi, Day/Time: Tue 10-12, Hall: hall-6 a
+
+========================================
+
+Report for Course: OS-2
+- Doctor: El-Sayed, Day/Time: Thu 8-10, Hall: hall-10 b
+
+========================================
+
+Report for Course: DB-2
+- Doctor: Hafny, Day/Time: Sun 12-2, Hall: hall-17 b
+- Doctor: El-Saeed, Day/Time: Sun 2-4, Hall: hall-17 b
+
+========================================
+
+Report for Course: Big-Data
+- Doctor: Marai, Day/Time: Mon 12-2, Hall: hall-10 b
+- Doctor: Amr, Day/Time: Mon 10-12, Hall: hall-1
+
+========================================
+
+Report for Course: Multimedia
+- Doctor: Salwa, Day/Time: Sat 8-10, Hall: hall-2
+
+========================================
+
+Report for Course: Parallel
+- Doctor: Shamardan, Day/Time: Thu 2-4, Hall: hall-6 a
+
+========================================
+
+Report for Course: ML
+- Doctor: Marai, Day/Time: Tue 2-4, Hall: hall-1
+- Doctor: Shamardan, Day/Time: Wed 10-12, Hall: hall-1
+
+========================================
+
+Report for Course: DSR
+- Doctor: Shamardan, Day/Time: Tue 2-4, Hall: hall-6 b
+- Doctor: Islam, Day/Time: Wed 8-10, Hall: hall-1
+
+========================================
+
+Report for Course: DC
+- Doctor: Hanan, Day/Time: Wed 2-4, Hall: hall-17 d
+- Doctor: Engy, Day/Time: Thu 10-12, Hall: hall-17 d
+
+========================================
+
+Report for Course: DS
+- Doctor: Helal, Day/Time: Tue 8-10, Hall: hall-17 b
+- Doctor: Hafny, Day/Time: Tue 10-12, Hall: hall-6 b
+
+========================================
+
+Report for Course: DB-1
+- Doctor: Islam, Day/Time: Wed 12-2, Hall: hall-17 b
+- Doctor: Yassin, Day/Time: Mon 2-4, Hall: hall-6 a
+
+========================================
+
+Report for Course: IS-Analysis
+- Doctor: Hanan, Day/Time: Sat 2-4, Hall: hall-6 a
+- Doctor: Helal, Day/Time: Sun 8-10, Hall: hall-6 a
+
+========================================
+
+Report for Course: Logic
+- Doctor: Mona, Day/Time: Mon 8-10, Hall: hall-1
+- Doctor: Abbas, Day/Time: Mon 10-12, Hall: hall-6 b
+
+========================================
+
+Report for Course: PL2
+- Doctor: El-Sayed, Day/Time: Tue 2-4, Hall: hall-6 a
+- Doctor: El-Defrawi, Day/Time: Wed 8-10, Hall: hall-10 b
+
+========================================
+
+Report for Course: Human-Rights
+- Doctor: Ayman, Day/Time: Thu 12-2, Hall: hall-2
+
+========================================
+
+Report for Course: DSP
+- Doctor: Salwa, Day/Time: Tue 12-2, Hall: hall-10 b
+
+========================================
+
+Report for Course: Image-1
+- Doctor: Manal, Day/Time: Sun 8-10, Hall: hall-17 d
+
+========================================
+
+Report for Course: DM
+- Doctor: Afefe, Day/Time: Mon 12-2, Hall: hall-2
+- Doctor: Wafi, Day/Time: Mon 8-10, Hall: hall-6 a
+
+========================================
+
+Report for Course: Comp-Arch
+- Doctor: Marai, Day/Time: Mon 8-10, Hall: hall-17 d
+
+========================================
+
+Report for Course: Conv-Opt
+- Doctor: Mona, Day/Time: Wed 2-4, Hall: hall-6 a
+
+========================================
+
+Report for Course: Intro-DS
+- Doctor: El-Kholy, Day/Time: Thu 8-10, Hall: hall-1
+
+========================================
+
+Report for Course: PL
+- Doctor: El-Saeed, Day/Time: Wed 8-10, Hall: hall-17 d
+
+========================================
+
+Report for Course: CO
+- Doctor: Islam, Day/Time: Thu 12-2, Hall: hall-6 a
+
+========================================
+
+Report for Course: Networks-2
+- Doctor: Hanan, Day/Time: Tue 8-10, Hall: hall-17 d
+
+========================================
+
+Report for Course: AI
+- Doctor: Engy, Day/Time: Wed 10-12, Hall: hall-6 a
+- Doctor: Yassin, Day/Time: Wed 12-2, Hall: hall-10 b
+
+========================================
+
+Report for Course: Comm-Tech
+- Doctor: Yassin, Day/Time: Sat 2-4, Hall: hall-2
+
+========================================
+
+Report for Course: PL3
+- Doctor: Afefe, Day/Time: Tue 2-4, Hall: hall-2
+
+========================================
+
+Report for Course: Ethics
+- Doctor: El-Sayed, Day/Time: Sat 2-4, Hall: hall-10 b
+
+========================================
+
+Report for Course: NN-DL
+- Doctor: Abdul-Aziz, Day/Time: Sun 2-4, Hall: hall-6 a
+
+========================================
+

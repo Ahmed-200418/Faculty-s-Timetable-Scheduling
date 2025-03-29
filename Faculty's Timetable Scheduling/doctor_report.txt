@@ -1,0 +1,147 @@
+Report for Dr. El-Kholy:
+- Course: Eng-1, Day/Time: Wed 2-4, Hall: hall-10 b
+- Course: Intro-DS, Day/Time: Thu 8-10, Hall: hall-1
+
+========================================
+
+Report for Dr. Wafi:
+- Course: Eng-1, Day/Time: Wed 10-12, Hall: hall-10 b
+- Course: Cybersec, Day/Time: Tue 10-12, Hall: hall-6 a
+- Course: DM, Day/Time: Mon 8-10, Hall: hall-6 a
+
+========================================
+
+Report for Dr. Salwa:
+- Course: Math-1, Day/Time: Mon 8-10, Hall: hall-2
+- Course: Multimedia, Day/Time: Sat 8-10, Hall: hall-2
+- Course: DSP, Day/Time: Tue 12-2, Hall: hall-10 b
+
+========================================
+
+Report for Dr. Manal:
+- Course: Math-1, Day/Time: Mon 12-2, Hall: hall-17 d
+- Course: Image-1, Day/Time: Sun 8-10, Hall: hall-17 d
+
+========================================
+
+Report for Dr. Mona:
+- Course: Stat-1, Day/Time: Sun 10-12, Hall: hall-2
+- Course: Logic, Day/Time: Mon 8-10, Hall: hall-1
+- Course: Conv-Opt, Day/Time: Wed 2-4, Hall: hall-6 a
+
+========================================
+
+Report for Dr. Helal:
+- Course: Stat-1, Day/Time: Sun 10-12, Hall: hall-1
+- Course: DS, Day/Time: Tue 8-10, Hall: hall-17 b
+- Course: IS-Analysis, Day/Time: Sun 8-10, Hall: hall-6 a
+
+========================================
+
+Report for Dr. Abbas:
+- Course: Physics, Day/Time: Thu 2-4, Hall: hall-17 b
+- Course: IS, Day/Time: Mon 2-4, Hall: hall-17 b
+- Course: IS, Day/Time: Tue 8-10, Hall: hall-10 b
+- Course: Logic, Day/Time: Mon 10-12, Hall: hall-6 b
+
+========================================
+
+Report for Dr. Afefe:
+- Course: Physics, Day/Time: Thu 12-2, Hall: hall-10 b
+- Course: DM, Day/Time: Mon 12-2, Hall: hall-2
+- Course: PL3, Day/Time: Tue 2-4, Hall: hall-2
+
+========================================
+
+Report for Dr. Soha:
+- Course: Intro-cs, Day/Time: Wed 10-12, Hall: hall-17 b
+
+========================================
+
+Report for Dr. Adel:
+- Course: Intro-cs, Day/Time: Wed 8-10, Hall: hall-6 b
+
+========================================
+
+Report for Dr. Engy:
+- Course: Info-Sec, Day/Time: Wed 12-2, Hall: hall-17 d
+- Course: DC, Day/Time: Thu 10-12, Hall: hall-17 d
+- Course: AI, Day/Time: Wed 10-12, Hall: hall-6 a
+
+========================================
+
+Report for Dr. Ayman:
+- Course: Info-Sec, Day/Time: Wed 2-4, Hall: hall-1
+- Course: Human-Rights, Day/Time: Thu 12-2, Hall: hall-2
+
+========================================
+
+Report for Dr. El-Sayed:
+- Course: OS-2, Day/Time: Thu 8-10, Hall: hall-10 b
+- Course: PL2, Day/Time: Tue 2-4, Hall: hall-6 a
+- Course: Ethics, Day/Time: Sat 2-4, Hall: hall-10 b
+
+========================================
+
+Report for Dr. Hafny:
+- Course: DB-2, Day/Time: Sun 12-2, Hall: hall-17 b
+- Course: DS, Day/Time: Tue 10-12, Hall: hall-6 b
+
+========================================
+
+Report for Dr. El-Saeed:
+- Course: DB-2, Day/Time: Sun 2-4, Hall: hall-17 b
+- Course: PL, Day/Time: Wed 8-10, Hall: hall-17 d
+
+========================================
+
+Report for Dr. Marai:
+- Course: Big-Data, Day/Time: Mon 12-2, Hall: hall-10 b
+- Course: ML, Day/Time: Tue 2-4, Hall: hall-1
+- Course: Comp-Arch, Day/Time: Mon 8-10, Hall: hall-17 d
+
+========================================
+
+Report for Dr. Amr:
+- Course: Big-Data, Day/Time: Mon 10-12, Hall: hall-1
+
+========================================
+
+Report for Dr. Shamardan:
+- Course: Parallel, Day/Time: Thu 2-4, Hall: hall-6 a
+- Course: ML, Day/Time: Wed 10-12, Hall: hall-1
+- Course: DSR, Day/Time: Tue 2-4, Hall: hall-6 b
+
+========================================
+
+Report for Dr. Islam:
+- Course: DSR, Day/Time: Wed 8-10, Hall: hall-1
+- Course: DB-1, Day/Time: Wed 12-2, Hall: hall-17 b
+- Course: CO, Day/Time: Thu 12-2, Hall: hall-6 a
+
+========================================
+
+Report for Dr. Hanan:
+- Course: DC, Day/Time: Wed 2-4, Hall: hall-17 d
+- Course: IS-Analysis, Day/Time: Sat 2-4, Hall: hall-6 a
+- Course: Networks-2, Day/Time: Tue 8-10, Hall: hall-17 d
+
+========================================
+
+Report for Dr. Yassin:
+- Course: DB-1, Day/Time: Mon 2-4, Hall: hall-6 a
+- Course: AI, Day/Time: Wed 12-2, Hall: hall-10 b
+- Course: Comm-Tech, Day/Time: Sat 2-4, Hall: hall-2
+
+========================================
+
+Report for Dr. El-Defrawi:
+- Course: PL2, Day/Time: Wed 8-10, Hall: hall-10 b
+
+========================================
+
+Report for Dr. Abdul-Aziz:
+- Course: NN-DL, Day/Time: Sun 2-4, Hall: hall-6 a
+
+========================================
+
